@@ -1,2 +1,2 @@
 # ECE761
-Course on "Mathematical foundations of Machine Learning" @ UW, Madison (Fall, 2018) 
+Interesting results from the Course __"Mathematical foundations of Machine Learning"__ @ University of Wisconsin, Madison (Fall, 2018) 
